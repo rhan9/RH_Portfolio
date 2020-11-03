@@ -9,6 +9,6 @@ Data Science Portfolio
 * A more detailed overview can be found [here](https://spatial-data-discovery.github.io/project-rhan9.html)
 
 Example Shot Chart:
-![](https://github.com/rhan9/RH_Portfolio/blob/main/images/GA19.png)
+        ![](https://github.com/rhan9/RH_Portfolio/blob/main/images/GA19.png)
 
 
