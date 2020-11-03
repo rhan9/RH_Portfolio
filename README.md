@@ -8,6 +8,6 @@ Ryan Han's Data Science Portfolio
 * Used matplotlib to plot out all of our player's regular season shots since he entered the NBA. 
 * A more detailed overview can be found [here](https://spatial-data-discovery.github.io/project-rhan9.html)
 
-   ![](https://github.com/rhan9/RH_Portfolio/blob/main/images/GA19.png)
+   ![](/images/GA19.png)
 
 
