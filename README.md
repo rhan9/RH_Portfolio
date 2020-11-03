@@ -1,12 +1,13 @@
 # RH_Portfolio
 Data Science Portfolio
 
-## Project 1: Final Project for Spatial Data Discovery Class, NBA player shot chart
+## [Project 1: NBA Player Shot Chart](https://github.com/rhan9/nba_player_shotchart)
 ### Overview
-Ever since I was a little kid, basketball has been a big part of my life.
+* Utilized Python and a National Basketball Association(NBA) API Client package called "nba_api" to visualize a players regular season shot chart. 
+* Created a python script to clean and extract the necessary shot location data from the API output.
+* Used matplotlib to plot out all of Giannis Antetokounmpo's regular season shots since he entered the NBA. 
+* A more detailed overview can be found [here](https://spatial-data-discovery.github.io/project-rhan9.html)
 
-When the National Basketball Association(NBA) [cancelled](https://www.nba.com/article/2020/03/11/nba-suspend-season-following-wednesdays-games) the remainder of its 2019-2020 season, due to COVID-19, I was extremely disappointed.
 
-Inspired by posts by [Kirk Goldsberry](https://fivethirtyeight.com/features/how-mapping-shots-in-the-nba-changed-it-forever/) and a LA Times graphic about [Kobe Bryant's](https://graphics.latimes.com/kobe-every-shot-ever/) career shots, I decide to visualize the growth of an NBA player through his shot charts. I thought this project would help fill the void in my life caused by the lack of NBA basketball.
 
-In a reality without COVID NBA playoff games would be occuring right now.
+
