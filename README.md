@@ -1,5 +1,6 @@
-## RH_Portfolio
-Ryan Han's Data Science Portfolio
+## About
+Hi, welcome to my portfolio. My name is Ryan Han and I am an aspiring data analyst. Here you'll find some
+completed projects and ongoing projects.
 
 ### [Project 1: NBA Player Shot Chart](https://github.com/rhan9/nba_player_shotchart)
 #### Overview
